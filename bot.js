@@ -11,8 +11,8 @@ const client3 = new Discord3.Client();
 const client4 = new Discord4.Client();
 const client5 = new Discord5.Client();
 //////////////////////////////////////////////////////////////////////////////////////////////////
-var ServerID = "537273770033807363";
-var ChannelID = "538051913900490752";
+var ServerID = "520296992161792000";
+var ChannelID = "543173974205399046";
 var prefix = "R";
 console.log('Raaz :) Online.');
 //////////////////////////////////////////////////////////////////////////////////////////////////
